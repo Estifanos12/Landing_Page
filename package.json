@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnkomarnicki/modern-landing-page-with-tailwinds.git"
+    "url": "git+https://github.com/Estifanos12/Landing_Page"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/johnkomarnicki/modern-landing-page-with-tailwinds/issues"
+    "url": "https://github.com/Estifanos12/Landing_Page/issues"
   },
-  "homepage": "https://github.com/johnkomarnicki/modern-landing-page-with-tailwinds#readme",
+  "homepage": "https://github.com/Estifanos12/Landing_Page#readme",
   "devDependencies": {
     "tailwindcss": "^2.1.4"
   }
